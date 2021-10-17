@@ -1,2 +1,3 @@
 # Resume
-<img width="800" alt="Screen Shot 2021-08-19 at 9 14 17 PM" src="https://user-images.githubusercontent.com/86048677/130178170-f0d39d41-14b7-4aa7-934c-0915a507f84a.png">
+This is my final resume the technology i used were HTML and CSS. 
+<img width="795" alt="Screen Shot 2021-10-16 at 7 26 28 PM" src="https://user-images.githubusercontent.com/86048677/137608319-62a52d8c-c778-4278-aaa4-004bdeef0d1f.png">
